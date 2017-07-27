@@ -65,6 +65,30 @@ body {
   height: 80vw;
 }
 
+/* 播放和暂停按钮 */
+.disc-operate span {
+  color: #fff;
+  font-size: 40px;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  background: rgba(0,0,0, 0.5);
+  position: absolute;
+  top: 29vh;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+}
+.disc-operate span.active { opacity: 1;}
+
+
+.disc-operate .pause {
+
+}
 @keyframes disc-circle {
   from {
     transform: rotate(0deg);
