@@ -37,15 +37,32 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: disc-circle 20s linear infinite;
 }
 
 .disc-cover img {
   width: 51vw;
   border-radius: 50%;
-  
+  animation: disc-circle 20s linear infinite;
 }
 
+.disc-cover span {
+  color: #fff;
+  font-size: 8vw;
+  display: inline-block;
+  width: 10vw;
+  line-height: 10vw;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  background: rgba(0,0,0, 0.5);
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  opacity: 0;
+}
+
+.disc-cover span.active { opacity: 1;}
 /* 播放器光盘 */
 .disc-light {
   background-image: url("../static/disc.png");
@@ -65,30 +82,6 @@ body {
   height: 80vw;
 }
 
-/* 播放和暂停按钮 */
-.disc-operate span {
-  color: #fff;
-  font-size: 40px;
-  display: inline-block;
-  width: 50px;
-  height: 50px;
-  line-height: 50px;
-  text-align: center;
-  border-radius: 50%;
-  border: 1px solid #fff;
-  background: rgba(0,0,0, 0.5);
-  position: absolute;
-  top: 29vh;
-  left: 50%;
-  transform: translateX(-50%);
-  opacity: 0;
-}
-.disc-operate span.active { opacity: 1;}
-
-
-.disc-operate .pause {
-
-}
 @keyframes disc-circle {
   from {
     transform: rotate(0deg);
