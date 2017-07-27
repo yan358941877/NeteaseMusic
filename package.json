@@ -1,0 +1,30 @@
+{
+  "name": "movie-board",
+  "version": "1.0.0",
+  "description": "Douban Movie with React and Redux",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "webpack-dev-server --no-inline",
+    "build": "cross-env NODE_ENV=production webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yan358941877/movie-board.git"
+  },
+  "author": "yanxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yan358941877/movie-board/issues"
+  },
+  "homepage": "https://yan358941877.github.io/movie-board/public/",
+  "devDependencies": {
+    "cross-env": "^3.2.3"
+  },
+  "dependencies": {
+    "compression": "^1.6.2",
+    "express": "^4.14.1",
+    "http-proxy-middleware": "^0.17.3",
+    "prop-types": "^15.5.10"
+  }
+}
