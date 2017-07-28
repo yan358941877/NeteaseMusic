@@ -1,0 +1,152 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+ul, ol {
+  list-style: none;
+}
+header {
+  width: 100vw;
+  height: 9vh;
+  background: #d43c33;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 3vw;
+}
+
+header h1 {
+  height: 4vh;
+  width: 100%;
+}
+
+header h1 .topsvg {
+  height: 100%;
+}
+
+nav ol {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+nav ol li {
+  width: 33.3%;
+  text-align: center;
+  box-sizing: border-box;
+  position: relative;
+}
+nav ol li span{
+  font-size: 14px;
+  line-height: 2.75em;
+  display: inline-block;
+  position: relative;
+}
+
+nav ol li span.active:after {
+  content: ' ';
+  position: absolute;
+  bottom: 0;
+  left: -5px;
+  right: -5px;
+  height: 2px;
+  background: #d43c33;
+}
+#recommend {
+  display: none;
+}
+#recommend .sheet h2 {
+  font-size: 16px;
+  margin: 1em 0;
+  padding-left: 0.5em;
+  border-left: 2px solid #d43c33;
+}
+
+#recommend .sheet ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+#recommend .sheet ul li {
+  width: 33%;
+  position: relative;
+  margin-bottom: 0.5em;
+}
+#recommend .sheet ul li img {
+  width: 100%;
+}
+#recommend .sheet ul li p {
+  padding: 5px 5px 0 5px;
+  font-size: 12px;
+  height: 3em;
+  text-overflow: ellipsis;
+  display:-webkit-box; 
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:2; 
+  overflow: hidden;
+}
+#recommend .sheet ul li span {
+  position: absolute;
+  display: inline-block;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0.5em;
+  font-size: 12px;
+  color: #fff;
+  text-align: right;
+  background-image: linear-gradient(180deg,rgba(0,0,0,.7),transparent)
+}
+
+#recommend .latest h2 {
+  font-size: 16px;
+  margin: 1em 0;
+  padding-left: 0.5em;
+  border-left: 2px solid #d43c33;
+}
+
+#recommend .latest li {
+  margin: 0 10px;
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+  position: relative;
+}
+#recommend .latest li h3 {
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 0.2em;
+}
+
+#recommend .latest li p {
+  font-size: 14px;
+  font-weight: normal;
+  color: #888;
+}
+#recommend .latest li p i{
+  color: #d43c33;
+}
+#recommend .latest li span {
+  position: absolute;
+  display: inline-block;
+  width: 2em;
+  line-height: 2em;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  padding-left: 3px;
+  text-align: center;
+  font-size: 14px;
+  color: #777;
+  right: 1em;
+  top: 50%;
+  transform: translateY(-50%);
+}
+footer {
+  width: 100vw;
+  height: 15vh;
+  background: url('../static/recommand_bg_2x.png') no-repeat;
+  background-size: cover;
+  
+}
