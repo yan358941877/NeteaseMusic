@@ -107,8 +107,12 @@ body {
   height: 10em;
   overflow: scroll;
 }
+
+.lyrics .lyrics-container::-webkit-scrollbar {/*隐藏滚轮*/
+display: none;
+}
 .lyrics .lyrics-container .content {
-  margin-top: 0;
+  margin-top: 56px;
   
 }
 .lyrics .lyrics-container p {
