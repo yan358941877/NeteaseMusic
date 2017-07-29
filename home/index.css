@@ -55,7 +55,7 @@ nav ol li span.active:after {
   background: #d43c33;
 }
 #recommend {
-  display: none;
+  display: block;
 }
 #recommend .sheet h2 {
   font-size: 16px;
@@ -146,7 +146,7 @@ nav ol li span.active:after {
 }
 footer {
   width: 100vw;
-  height: 15vh;
+  height: 5vh;
   /*background: url('../static/recommand_bg_2x.png') no-repeat;
   background-size: cover;*/
 }
@@ -235,6 +235,9 @@ footer {
 }
 
 /* 搜索页面 */
+#search {
+  display: none;
+}
 #search .search-bar {
   width: 100vw;
   height: 10vh;
