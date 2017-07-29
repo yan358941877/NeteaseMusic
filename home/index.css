@@ -150,6 +150,10 @@ footer {
   background-size: cover;
 }
 
+/* hot-music */
+#hot-music {
+  display: none;
+}
 #hot-music .hot-img {
   background: url('../static/hot_music_bg_2x.jpg') no-repeat;
   background-size: cover;
@@ -192,11 +196,6 @@ footer {
 #hot-music li .rank.top {
   color: #d43c33;
 }
-/*#hot-music li .rank::after {
-  content: ' ';
-  height: 100%;
-  display: inline-block;
-}*/
 #hot-music li .content {
   position: relative;
   float: left;
@@ -232,4 +231,29 @@ footer {
   right: 1em;
   top: 50%;
   transform: translateY(-50%);
+}
+
+/* 搜索页面 */
+#search .search-bar {
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+}
+#search .search-component {
+  padding: 5px;
+  width: 90%;
+  height: auto;
+  vertical-align: center;
+}
+#search .search-component span {
+  font-size: 20px;
+  vertical-align: center;
+}
+#search .search-component input {
+  font-size: 16px;
+  vertical-align: center;
+  line-height: 1.5em;
+  outline: none;
+  border: none;
 }
