@@ -115,10 +115,14 @@ nav ol li span.active:after {
   border-bottom: 1px solid #ccc;
   position: relative;
 }
+#recommend .latest li a{
+  text-decoration: none;
+}
 #recommend .latest li h3 {
   font-size: 16px;
   font-weight: normal;
   margin-bottom: 0.2em;
+  color: #000;
 }
 
 #recommend .latest li p {
@@ -184,7 +188,10 @@ footer {
   box-sizing: border-box;
   overflow: hidden;
 }
-
+#hot-music li a{
+  text-decoration: none;
+  color: #000;
+}
 #hot-music li .rank {
   float: left;
   padding: 20px 0;
@@ -208,6 +215,7 @@ footer {
   font-size: 16px;
   font-weight: normal;
   margin-bottom: 0.2em;
+  color: #000;
 }
 
 #hot-music li .content p {
