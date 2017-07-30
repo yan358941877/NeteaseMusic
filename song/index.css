@@ -93,15 +93,19 @@ body {
 
 .lyrics {
   text-align: center;
-  margin-top: 5vh;
+  /*margin-top: 5vh;*/
   color: hsla(0,0%,100%,.6);
   font-size: 14px;
 }
-
+.lyrics .lyrics-title {
+  padding: 4vh 0 2vh 0;
+}
 .lyrics .lyrics-title h2{
-  font-size: 20px;
+  font-size: 18px;
   line-height: 2em;
   color: #fff;
+  font-family: Helvetica, sans-serif;
+  font-weight: normal;
 }
 .lyrics .lyrics-container {
   height: 10em;
@@ -113,10 +117,10 @@ display: none;
 }
 .lyrics .lyrics-container .content {
   margin-top: 56px;
-  
 }
 .lyrics .lyrics-container p {
   line-height: 2em;
+  font-family: Helvetica, sans-serif;
 }
 .lyrics .lyrics-container .ontime{
   color: #fff;
