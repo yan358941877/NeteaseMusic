@@ -1,0 +1,178 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+header {
+  width: 100vw;
+}
+
+.playlist-header {
+  height: 30vh;
+  width: 100vw;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.playlist-header .playlist-covers {
+  float: left;
+  height: 20vh;
+  margin-left: 5vw;
+  position: relative;
+}
+.playlist-header .playlist-covers::before {
+  content: '歌单';
+  position: absolute;
+  left: 0;
+  top: 1.5em;
+  color: #fff;
+  display: block;
+  background: rgba(212,60,51,0.9);
+  font-size: 12px;
+  line-height: 1.5;
+  padding:0 0.5em;
+  border-radius: 0 0.5em 0.5em 0;
+}
+.playlist-header .playlist-covers span.listen-time {
+  position: absolute;
+  display: inline-block;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0.5em;
+  font-size: 12px;
+  color: #fff;
+  text-align: right;
+  background-image: linear-gradient(180deg,rgba(0,0,0,.7),transparent)
+}
+.playlist-header .playlist-covers img {
+  height: 100%;
+}
+.playlist-header .playlist-desc {
+  height: 20vh;
+  padding: 1em;
+}
+.playlist-header .playlist-desc h3 {
+  margin-bottom: 1em;
+}
+.playlist-header .playlist-desc img {
+  width: 20px;
+  border-radius: 50%;
+  vertical-align: bottom;
+}
+.playlist-header .bg-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -2;
+  background: url('http://p3.music.126.net/CPY1wTv-PV-jTDAB4IT_XA==/109951162846438660.jpg?param=170y170') no-repeat;
+  background-size: cover;
+  filter: blur(20px);
+}
+.playlist-header::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  background: rgba(200,200,200,0.2);
+}
+
+.playlist-label {
+  font-size: 14px;
+  line-height: 3em;
+  padding: 0 1em;
+  color: #666;
+}
+
+.playlist-label span {
+  display: inline-block;
+  border: 1px solid #ccc;
+  color: #666;
+  font-size: 12px;
+  border-radius: 1em;
+  line-height: 1.5em;
+  padding: 0 0.5em;
+}
+
+
+#music-list h4{
+  font-size: 12px;
+  font-weight: normal;
+  background: #eeeff0;
+  color: #666;
+  padding: 0.5em 1em;
+}
+
+#music-list li {
+  position: relative;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+#music-list li a{
+  text-decoration: none;
+  color: #000;
+}
+#music-list li .rank {
+  float: left;
+  padding: 20px 0;
+  width: 10%;
+  height: 100%;
+  text-align: center;
+  vertical-align: bottom;
+  color: #999;
+}
+#music-list li .rank.top {
+  color: #d43c33;
+}
+#music-list li .content {
+  position: relative;
+  float: left;
+  width: 90%;
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+}
+#music-list li .content h3 {
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 0.2em;
+  color: #000;
+}
+
+#music-list li .content p {
+  font-size: 14px;
+  font-weight: normal;
+  color: #888;
+}
+#music-list li .content p i{
+  color: #d43c33;
+}
+#music-list li .content span {
+  position: absolute;
+  display: inline-block;
+  width: 2em;
+  line-height: 2em;
+  border: 1px solid #666;
+  border-radius: 50%;
+  padding-left: 3px;
+  text-align: center;
+  font-size: 14px;
+  color: #777;
+  right: 1em;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#comment h4{
+  font-size: 12px;
+  font-weight: normal;
+  background: #eeeff0;
+  color: #666;
+  padding: 0.5em 1em;
+}
