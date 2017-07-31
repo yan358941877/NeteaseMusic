@@ -1,0 +1,195 @@
+{
+  "cover": "http://p1.music.126.net/CPY1wTv-PV-jTDAB4IT_XA==/109951162846438660.webp?imageView&thumbnail=378x0&quality=75&tostatic=0&type=webp",
+  "background": "http://p3.music.126.net/CPY1wTv-PV-jTDAB4IT_XA==/109951162846438660.jpg?param=170y170",
+  "title": "前端框架大作战",
+  "avatar": "/static/avatar.jpg",
+  "username": "IT男的成长记录",
+  "times": "10万",
+  "playlist": [
+    {
+      "id": "11",
+      "name": "React",
+      "artist": "森罗万象",
+      "album": "あの日の梦のアリス",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/11.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/11.json",
+      "img_blur": "http://p4.music.126.net/E4OjO2JPA3N3i8BV3Zffqw==/4418937232050945.jpg",
+      "img": "http://p1.music.126.net/cnQSGJHnIFEnDaydfgzhNg==/4456320627385855.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0",
+      "link": "/song/?id=1&playlist=frontend"
+    },
+    {
+      "id": "12",
+      "name": "Express",
+      "artist": "Christina Aguilera",
+      "album": "Express",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/12.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/12.json",
+      "img_blur": "http://p4.music.126.net/W-C4-JVc9wkjH8sPg3jFRA==/2266093464861393.jpg",
+      "img": "http://p1.music.126.net/3xBVtiLg61TYrHOqd2LTgg==/1738327883515481.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0",
+      "link": "/song/?id=2&playlist=frontend"
+    },
+    {
+      "id": "13",
+      "name": "Bootstrap",
+      "artist": "Pluxus",
+      "album": "Solid State",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/13.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/13.json",
+      "img_blur": "http://p4.music.126.net/JTN4LYmGGW8BkyHlqBqzAQ==/16663098718949503.jpg",
+      "img": "http://p1.music.126.net/-2Q4xv9aHfJmP_JinlysaA==/6638851209337124.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0",
+      "link": "/song/?id=3&playlist=frontend"
+    },
+    {
+      "id": "14",
+      "name": "Koa",
+      "artist": "Darwin Raymond",
+      "album": "Sun Shines Brightly",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/14.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/14.json",
+      "img_blur": "http://p3.music.126.net/AWAl9NGW2wWHYUzDVzYmtA==/2522279674180809.jpg",
+      "img": "http://p1.music.126.net/NtR4F4CEMLTSDHvTb9iQxw==/2247401767224020.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0",
+      "link": "/song/?id=4&playlist=frontend"
+    },
+    {
+      "id": "15",
+      "name": "Gulp",
+      "artist": "UGLH & Federico Locchi",
+      "album": "Munich",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/15.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/15.json",
+      "img_blur": "http://p4.music.126.net/4JzE6TGhvw3RLcpsnbgnwg==/737772302286011.jpg",
+      "img": "http://p1.music.126.net/jot1tTs4sKt1LOsjQ66mZg==/888405395272655.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0",
+      "link": "/song/?id=5&playlist=frontend"
+    },
+    {
+      "id": "16",
+      "name": "Chrome",
+      "artist": "Katatonia",
+      "album": "Last Fair Deal Gone Down",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/16.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/16.json",
+      "img_blur": "http://p4.music.126.net/plCj4jXJoiIFI1rTJp54mQ==/18278281300677550.jpg",
+      "img": "http://p1.music.126.net/eGyQMc-Z32SoSu3FNjHGfw==/6644348767641112.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0",
+      "link": "/song/?id=6&playlist=frontend"
+    },
+    {
+      "id": "17",
+      "name": "Redux",
+      "artist": "Biome",
+      "album": "Abyss EP",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/17.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/17.json",
+      "img_blur": "http://p3.music.126.net/kNJFP1oHkEUeuDxHgrhKAg==/4462917697166204.jpg",
+      "img": "http://p1.music.126.net/x_VDROs6Vg1g7yBLoQTc5g==/5674579511021898.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0",
+      "link": "/song/?id=7&playlist=frontend"
+    },
+    {
+      "id": "18",
+      "name": "Node",
+      "artist": "Dk 澄",
+      "album": "Node",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/18.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/18.json",
+      "img_blur": "http://p4.music.126.net/Oslq9R1ryXu173xiHQBQFw==/109951162838966065.jpg",
+      "img": "http://p1.music.126.net/Oslq9R1ryXu173xiHQBQFw==/109951162838966065.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0",
+      "link": "/song/?id=8&playlist=frontend"
+    },
+    {
+      "id": "19",
+      "name": "Hexo",
+      "artist": "Kris Menace",
+      "album": "Electric Horizon",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/19.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/19.json",
+      "img_blur": "http://p3.music.126.net/b8rtR3yvT3Kf6sLtx6WGcA==/469491465075823.jpg",
+      "img": "http://p1.music.126.net/FMS_h_32WA7cde4s8P2a7w==/5760341418003428.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0",
+      "link": "/song/?id=9&playlist=frontend"
+    },
+    {
+      "id": "20",
+      "name": "Sass",
+      "artist": "Dinky",
+      "album": "Dimension D",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/20.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/20.json",
+      "img_blur": "http://p3.music.126.net/2l90tW1-yBOAaeKGpMK3pw==/16670795300343371.jpg",
+      "img": "http://p1.music.126.net/IXjrNr2MZ34ir0vcxRv8SQ==/2537672837197919.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0",
+      "link": "/song/?id=10&playlist=frontend"
+    }
+  ],
+  "label": [
+    "欧美", "民谣", "放松"
+  ],
+  "comment": [
+    {
+      "avatar": "http://p1.music.126.net/WVULbnHylP58XnsobmJyag==/109951162846314829.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "饭团2",
+      "date": "2017年07月19日",
+      "content": "哈哈哈哈哈哈哈哈可以啊",
+      "zan": "2"
+    },
+    {
+      "avatar": "http://p1.music.126.net/CKifm6wk1Haxl1XRstCdXw==/109951162896824875.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "是药药切克闹的切克闹",
+      "date": "2017年07月13日",
+      "content": "别出心裁啊！！！！！！！",
+      "zan": "5"
+    },
+    {
+      "avatar": "http://p1.music.126.net/lV4UIlestXBFofmFHEhj-Q==/109951162933967801.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "阿不三姆德",
+      "date": "2017年06月26日",
+      "content": "那就收藏一个呗(｡･ω･｡)",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/TZdumLYfIilK2jXrWiYTKw==/109951162949049882.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "慢灵魂飘啊飘",
+      "date": "2017年06月25日",
+      "content": "这个歌单很迷人🤔🤔🤔",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/xnvaAsFvYQdFMRTb4-lqbQ==/18745573743400032.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "chaneyzhao",
+      "date": "2017年04月04日",
+      "content": "占坑",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/77mgbJdmgkkgDZLgIivrvQ==/19049038951392834.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "青海的蓝",
+      "date": "2017年04月21日",
+      "content": "滴，打卡，占坑。",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/SMI5FdyPi0WBQhKnIa_Y2Q==/19072128695441141.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "想不想看老子的武功",
+      "date": "2017年04月15日",
+      "content": "哈哈哈哈哈哈哈循环了在",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/Harw9VKPSr4NtZNUmhV80w==/2531075769361110.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "Eliot-js",
+      "date": "2017年04月15日",
+      "content": "循环了",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/A-AzIvWH5_uJAaCVj_btKQ==/3265549569394644.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "Zoey__Baby",
+      "date": "2017年04月15日",
+      "content": "来看评论的",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/LxXo3sf-oAc4qwpJqL1l-A==/7709775534293764.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "橙色派",
+      "date": "2017年04月13日",
+      "content": "收下我的膝盖，大佬",
+      "zan": "0"
+    }
+  ]
+}

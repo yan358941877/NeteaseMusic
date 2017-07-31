@@ -5,7 +5,7 @@ $(function () {
   let audio = null
   $.get(`/music/${playlist}.json`).then((array) => {
     //console.log(array)
-    const {url, lyrics, name, album, artist, img, img_blur} = array[id]
+    const {url, lyrics, name, album, artist, img, img_blur} = array.playlist[id]
     setMusic(url)
     setPlayer(lyrics, name, artist, img, img_blur)
   })
