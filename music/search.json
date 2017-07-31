@@ -1,0 +1,104 @@
+{
+  "playlist": [
+    {
+      "id": "1",
+      "name": "追光者",
+      "artist": "岑宁儿",
+      "album": "夏至未至",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/31.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/31.json",
+      "img_blur": "http://p3.music.126.net/iMEpR_WRMEZv48G3DB6sMw==/18225504742568899.jpg",
+      "img": "http://p1.music.126.net/ZZAQGWl9mR7g5xCyWWH3Pw==/19149094509535913.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0"
+    },
+    {
+      "id": "2",
+      "name": "春风十里",
+      "artist": "鹿先森乐队",
+      "album": "所有的酒都不如你",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/32.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/32.json",
+      "img_blur": "http://p3.music.126.net/pwUkRheH67kQ8HlMbzWiTg==/17683445509895284.jpg",
+      "img": "http://p1.music.126.net/vOrGCPP-ozONI4IdlCgdfA==/18555358231321070.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0"
+    },
+    {
+      "id": "3",
+      "name": "恋",
+      "artist": "星野源",
+      "album": "逃避虽可耻但有用",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/33.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/33.json",
+      "img_blur": "http://p4.music.126.net/ZAHeoMgLK5rNl5C-YXAHzw==/17802192765683771.jpg",
+      "img": "http://p1.music.126.net/yQsOoFeLBcOzlkCMLvnWHg==/18495984602893590.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0"
+    },
+    {
+      "id": "4",
+      "name": "彩蝶舞夏",
+      "artist": "何真真",
+      "album": "舌尖上的中国 番外篇",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/21.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/21.json",
+      "img_blur": "http://p3.music.126.net/CZB9WMtWMbWWwWsWsb6-iQ==/643214312249638.jpg",
+      "img": "http://p1.music.126.net/LxHGiWdRQQYS9GRTKjDogQ==/2531075769155659.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0"
+    },
+    {
+      "id": "5",
+      "name": "如果我爱你",
+      "artist": "周冬雨/张一山",
+      "album": "春风十里，不如你",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/35.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/35.json",
+      "img_blur": "http://p4.music.126.net/Gy9h4DYRjU6v8vvjt4s0sQ==/18858823439686637.jpg",
+      "img": "http://p1.music.126.net/FvO4-KkXHpgDvIir2qsu0Q==/18999560928201496.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0"
+    },
+    {
+      "id": "6",
+      "name": "一百种热爱",
+      "artist": "李宇春",
+      "album": "一百种热爱",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/36.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/36.json",
+      "img_blur": "http://p4.music.126.net/9lqTj73JKVaLHGgFtWo3bQ==/18245295951868562.jpg",
+      "img": "http://p1.music.126.net/Yxqdu6nkEaXN71cf3MfxXQ==/18631224534622355.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0"
+    },
+    {
+      "id": "7",
+      "name": "I'm the One",
+      "artist": "Justin Bieber",
+      "album": "I'm the One",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/37.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/37.json",
+      "img_blur": "http://p3.music.126.net/Hg2YOENsyaFmBCwIHC3kmw==/17815386905270109.jpg",
+      "img": "http://p1.music.126.net/erD3reF4IABguYY-1eIabw==/19025949207139508.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0"
+    },
+    {
+      "id": "8",
+      "name": "Shape of You",
+      "artist": "Ed Sheeran",
+      "album": "Shape of You",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/6.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/6.json",
+      "img_blur": "http://p4.music.126.net/plCj4jXJoiIFI1rTJp54mQ==/18278281300677550.jpg",
+      "img": "http://p1.music.126.net/5Zs51JS6cQzvQclW5u_J1g==/18832435162240436.webp?imageView&thumbnail=720x0&quality=75&tostatic=0&type=webp"
+    },
+    {
+      "id": "9",
+      "name": "That's What I Like",
+      "artist": "Bruno Mars",
+      "album": "24K Magic",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/8.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/8.json",
+      "img_blur": "http://p3.music.126.net/PzNpIfwnM-gqKflEQwEJtg==/17732923533147954.jpg",
+      "img": "http://p1.music.126.net/Q8WLm4WXyiQ0-BzIQiyR1w==/18793952254007213.webp?imageView&thumbnail=720x0&quality=75&tostatic=0&type=webp"
+    },
+    {
+      "id": "10",
+      "name": "我想念",
+      "artist": "金志文",
+      "album": "夏至未至",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/40.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/40.json",
+      "img_blur": "http://p3.music.126.net/iMEpR_WRMEZv48G3DB6sMw==/18225504742568899.jpg",
+      "img": "http://p1.music.126.net/ZZAQGWl9mR7g5xCyWWH3Pw==/19149094509535913.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0"
+    }
+  ]
+}

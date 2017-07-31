@@ -1,0 +1,195 @@
+{
+  "cover": "http://p1.music.126.net/EBRqPmY8k8qyVHyF8AyjdQ==/18641120139148117.webp?imageView&thumbnail=378x0&quality=75&tostatic=0&type=webp",
+  "background": "http://p1.music.126.net/EBRqPmY8k8qyVHyF8AyjdQ==/18641120139148117.webp?imageView&thumbnail=378x0&quality=75&tostatic=0&type=webp",
+  "title": "美国Billboard周榜",
+  "avatar": "http://p1.music.126.net/BmeUMF4Cr0f343lCwj1_7Q==/2105564767199852.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+  "username": "Billboard公告牌",
+  "times": "1.4亿",
+  "playlist": [
+    {
+      "id": "1",
+      "name": "Lost Stars",
+      "artist": "Adam Levine",
+      "album": "Begin Again",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/1.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/1.json",
+      "img_blur": "http://p3.music.126.net/N4ChkfrBGJ3NwuETrBFGsA==/16592729974972277.jpg",
+      "img": "http://p1.music.126.net/HfONoiydSxBFn2SMmyN3qg==/3235862724973369.jpg?imageView&thumbnail=360x0&quality=75&tostatic=0",
+      "link": "/song/?id=1&playlist=billboard"
+    },
+    {
+      "id": "2",
+      "name": "Closer",
+      "artist": "The Chainsmokers",
+      "album": "Closer",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/2.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/2.json",
+      "img_blur": "http://p4.music.126.net/P7a8Oqw5OuaEvxUWKN5pMA==/17690042579641949.jpg",
+      "img": "http://p1.music.126.net/nC7UtVKkQNmfb8oPG1qQFw==/3310629516306722.webp?imageView&thumbnail=720x0&quality=75&tostatic=0&type=webp",
+      "link": "/song/?id=2&playlist=billboard"
+    },
+    {
+      "id": "3",
+      "name": "See You Again",
+      "artist": "Wiz Khalifa/Charlie Puth",
+      "album": "Furious 7",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/3.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/3.json",
+      "img_blur": "http://p4.music.126.net/jiD1GXJ2Y-WAbqCiKX1lSw==/17707634765786614.jpg",
+      "img": "http://p1.music.126.net/JIc9X91OSH-7fUZqVfQXAQ==/7731765766799133.webp?imageView&thumbnail=720x0&quality=75&tostatic=0&type=webp",
+      "link": "/song/?id=3&playlist=billboard"
+    },
+    {
+      "id": "4",
+      "name": "We Don't Talk Anymore",
+      "artist": "Charlie Puth/Selena Gomez",
+      "album": "Nine Track Mind",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/4.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/4.json",
+      "img_blur": "http://p3.music.126.net/vhvhyT_2CuX-orp7UhQAyQ==/18159534044683887.jpg",
+      "img": "http://p1.music.126.net/OVHar05vedbWFEWHuArbGA==/3295236348738229.webp?imageView&thumbnail=720x0&quality=75&tostatic=0&type=webp",
+      "link": "/song/?id=4&playlist=billboard"
+    },
+    {
+      "id": "5",
+      "name": "John Wayne",
+      "artist": "Lady Gaga",
+      "album": "Joanne",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/5.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/5.json",
+      "img_blur": "http://p3.music.126.net/WTTOaLxnyPl_N906kglemQ==/17713132323886897.jpg",
+      "img": "http://p1.music.126.net/lUJPLzVOMkFMJ1ChrRlpPA==/3443670431338940.webp?imageView&thumbnail=720x0&quality=75&tostatic=0&type=webp",
+      "link": "/song/?id=5&playlist=billboard"
+    },
+    {
+      "id": "6",
+      "name": "Shape of You",
+      "artist": "Ed Sheeran",
+      "album": "Shape of You",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/6.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/6.json",
+      "img_blur": "http://p4.music.126.net/plCj4jXJoiIFI1rTJp54mQ==/18278281300677550.jpg",
+      "img": "http://p1.music.126.net/5Zs51JS6cQzvQclW5u_J1g==/18832435162240436.webp?imageView&thumbnail=720x0&quality=75&tostatic=0&type=webp",
+      "link": "/song/?id=6&playlist=billboard"
+    },
+    {
+      "id": "7",
+      "name": "Irresistible",
+      "artist": "One Direction",
+      "album": "Take Me Home",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/7.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/7.json",
+      "img_blur": "http://p3.music.126.net/R6c3A-jT27bhuBJB2mEXrg==/18167230626552713.jpg",
+      "img": "http://p1.music.126.net/S3oxolo9xyPL_APfyJ0wEQ==/6650945837331786.webp?imageView&thumbnail=720x0&quality=75&tostatic=0&type=webp",
+      "link": "/song/?id=7&playlist=billboard"
+    },
+    {
+      "id": "8",
+      "name": "That's What I Like",
+      "artist": "Bruno Mars",
+      "album": "24K Magic",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/8.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/8.json",
+      "img_blur": "http://p3.music.126.net/PzNpIfwnM-gqKflEQwEJtg==/17732923533147954.jpg",
+      "img": "http://p1.music.126.net/Q8WLm4WXyiQ0-BzIQiyR1w==/18793952254007213.webp?imageView&thumbnail=720x0&quality=75&tostatic=0&type=webp",
+      "link": "/song/?id=8&playlist=billboard"
+    },
+    {
+      "id": "9",
+      "name": "Boom Clap",
+      "artist": "Charli XCX",
+      "album": "Sucker",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/9.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/9.json",
+      "img_blur": "http://p4.music.126.net/clC4V7qHcl6Sd-o0i2y8Og==/18212310602549740.jpg",
+      "img": "http://p1.music.126.net/uDsFEAnZ6EpfAM3gGQMbyw==/6633353651174896.webp?imageView&thumbnail=720x0&quality=75&tostatic=0&type=webp",
+      "link": "/song/?id=9&playlist=billboard"
+    },
+    {
+      "id": "10",
+      "name": "Sugar",
+      "artist": "Maroon 5",
+      "album": "V",
+      "url": "http://otw4i8lpv.bkt.clouddn.com/10.mp3",
+      "lyrics": "http://otw4i8lpv.bkt.clouddn.com/10.json",
+      "img_blur": "http://p4.music.126.net/DuPGrULbOhYd4sIOztLBzA==/18271684230929559.jpg",
+      "img": "http://p1.music.126.net/RkbAVgGxk1Nr5fjuaR9dww==/19175482788569403.webp?imageView&thumbnail=720x0&quality=75&tostatic=0&type=webp",
+      "link": "/song/?id=10&playlist=billboard"
+    }
+  ],
+  "label": [
+    "欧美", "流行", "榜单"
+  ],
+  "comment": [
+    {
+      "avatar": "http://p1.music.126.net/WVULbnHylP58XnsobmJyag==/109951162846314829.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "饭团2",
+      "date": "2017年07月19日",
+      "content": "哈哈哈哈哈哈哈哈可以啊",
+      "zan": "2"
+    },
+    {
+      "avatar": "http://p1.music.126.net/CKifm6wk1Haxl1XRstCdXw==/109951162896824875.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "是药药切克闹的切克闹",
+      "date": "2017年07月13日",
+      "content": "别出心裁啊！！！！！！！",
+      "zan": "5"
+    },
+    {
+      "avatar": "http://p1.music.126.net/lV4UIlestXBFofmFHEhj-Q==/109951162933967801.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "阿不三姆德",
+      "date": "2017年06月26日",
+      "content": "那就收藏一个呗(｡･ω･｡)",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/TZdumLYfIilK2jXrWiYTKw==/109951162949049882.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "慢灵魂飘啊飘",
+      "date": "2017年06月25日",
+      "content": "这个歌单很迷人🤔🤔🤔",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/xnvaAsFvYQdFMRTb4-lqbQ==/18745573743400032.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "chaneyzhao",
+      "date": "2017年04月04日",
+      "content": "占坑",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/77mgbJdmgkkgDZLgIivrvQ==/19049038951392834.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "青海的蓝",
+      "date": "2017年04月21日",
+      "content": "滴，打卡，占坑。",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/SMI5FdyPi0WBQhKnIa_Y2Q==/19072128695441141.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "想不想看老子的武功",
+      "date": "2017年04月15日",
+      "content": "哈哈哈哈哈哈哈循环了在",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/Harw9VKPSr4NtZNUmhV80w==/2531075769361110.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "Eliot-js",
+      "date": "2017年04月15日",
+      "content": "循环了",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/A-AzIvWH5_uJAaCVj_btKQ==/3265549569394644.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "Zoey__Baby",
+      "date": "2017年04月15日",
+      "content": "来看评论的",
+      "zan": "0"
+    },
+    {
+      "avatar": "http://p1.music.126.net/LxXo3sf-oAc4qwpJqL1l-A==/7709775534293764.webp?imageView&thumbnail=90x0&quality=75&tostatic=0&type=webp",
+      "username": "橙色派",
+      "date": "2017年04月13日",
+      "content": "收下我的膝盖，大佬",
+      "zan": "0"
+    }
+  ]
+}
