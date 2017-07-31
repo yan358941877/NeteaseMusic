@@ -75,6 +75,11 @@ nav ol li span.active:after {
   width: 33%;
   position: relative;
   margin-bottom: 0.5em;
+  
+}
+#recommend .sheet ul li a {
+  text-decoration: none;
+  color: #000;
 }
 #recommend .sheet ul li img {
   width: 100%;
